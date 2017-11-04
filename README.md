@@ -1,0 +1,2 @@
+# TablePublish
+Table for Azure
